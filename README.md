@@ -9,7 +9,6 @@ In career transition with a technical course in programming, covering languages 
 * 🌍  I'm based in Lisbon.
 * 🖥️  See my portfolio at [GitHub](http://github.com/zegcaetano)
 * ✉️  You can contact me at [zegcaetano@gmail.com](mailto:zegcaetano@gmail.com)
-* 🧠  I'm learning React.
 * 🤝  I'm open to collaborating on fresh challenges and explore opportunities that enhance my abilities.
 
 ### Skills
